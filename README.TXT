@@ -1,0 +1,1 @@
+Тест взят с http://www.syntone-spb.ru/library/article_syntone/content/4969.html
