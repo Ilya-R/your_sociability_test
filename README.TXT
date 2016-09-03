@@ -1,1 +1,1 @@
-Тест взят с http://www.syntone-spb.ru/library/article_syntone/content/4969.html
+Программа для проведения теста на общительность. По завершению теста выдаст результат.
