@@ -2,6 +2,8 @@
 class Test
   POSSIBLE_ANSWER_VARIANTS = 1..3
 
+  attr_reader :score
+
   def initialize
     @questions =
       ['Переживаете ли вы в ожидании важной деловой встречи?',
@@ -24,7 +26,6 @@ class Test
     @score = 0
   end
 
-  attr_reader :score
 
   def user_answer
     input = 0
